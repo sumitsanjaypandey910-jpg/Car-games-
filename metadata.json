@@ -1,0 +1,6 @@
+{
+  "name": "Apex Velocity - 3D Car Racing",
+  "description": "High-octane 3D arcade car racing game featuring championship tracks, AI rivals, drift mechanics, nitro boost, and garage customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
